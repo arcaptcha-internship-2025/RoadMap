@@ -1,6 +1,7 @@
-# Arcaptcha Inetrnship RoadMap
+# Arcaptcha Internship RoadMap
 
-- Golang Basics and advances:
+## Golang Basics and advances
+
 - - [Errors, Panic, Recover](https://go.dev/blog/defer-panic-and-recover)
 - - [Type Assertions](https://go.dev/tour/methods/15)
 - - **Interfaces:**
@@ -27,3 +28,16 @@
 - - - [Generics - GoByExample](https://gobyexample.com/generics)
 - - **Pointers:**
 - - - [Pointers](https://gobyexample.com/pointers)
+
+## Version Controlling
+
+- **Git**:
+- - [Git cheatsheet](https://cs.fyi/guide/git-cheatsheet)
+
+## Database
+
+- **ORM**:
+- - [What is ORM?](https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/)
+- - [GORM Document](https://gorm.io/docs/index.html)
+- **PostgreSQL**:
+- - [PostgreSQL Tutorial for beginners](https://www.postgresqltutorial.com/)
