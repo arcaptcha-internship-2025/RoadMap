@@ -28,6 +28,9 @@
 - - - [Generics - GoByExample](https://gobyexample.com/generics)
 - - **Pointers:**
 - - - [Pointers](https://gobyexample.com/pointers)
+- - **Reflection:**
+- - - [Reflection in GO - GeeksForGeeks](https://www.geeksforgeeks.org/go-language/reflection-in-golang/)
+- - - [Laws of reflection - go.dev/blog](https://go.dev/blog/laws-of-reflection)
 
 ## Version Controlling
 
