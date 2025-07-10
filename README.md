@@ -44,3 +44,15 @@
 - - [GORM Document](https://gorm.io/docs/index.html)
 - **PostgreSQL**:
 - - [PostgreSQL Tutorial for beginners](https://www.postgresqltutorial.com/)
+
+### Server Side Development
+
+1. [What is Rest API? - AWS](https://aws.amazon.com/what-is/restful-api/)
+2. [What is a middleware? - Medium blog](https://medium.com/@utkarsh.gupta0311/exploring-middleware-in-backend-development-b8496875a4d2)
+3. [Authentication and authorization - Auth0](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
+4. [Authentication and authorization - FreeCodeCamp.org](https://www.freecodecamp.org/news/whats-the-difference-between-authentication-and-authorisation/)
+5. [Stateful vs Stateless applications - Redhat blog](https://www.redhat.com/en/topics/cloud-native-apps/stateful-vs-stateless)
+6. [Stateful vs Stateless applications - Medium blog](https://moezmissaoui.medium.com/understanding-stateful-and-stateless-applications-a-comprehensive-guide-aec28511ed80)
+7. [JWT Token - Official introduction](https://jwt.io/introduction)
+8. [JWT Token - GeeksForGeeks](https://www.geeksforgeeks.org/web-tech/json-web-token-jwt/)
+9. [What is DTO (Data Transfer Object)? - Medium](https://konstantinmb.medium.com/dtos-101-the-what-why-and-how-of-data-transfer-objects-304a03a71a2c)
